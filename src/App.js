@@ -6,6 +6,8 @@ import Hero from './components/hero';
 import Projects from './components/projects';
 import Contact from './components/contact';
 import Footer from './components/footer';
+import App from './App.js';
+
 
 function App() {
   return (
